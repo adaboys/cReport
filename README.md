@@ -1,2 +1,2 @@
 # cReport 
-to analyze and generate reports, KPIs for Catalyst funded proposals
+Realtime & auto analyze and generate reports, KPIs for Catalyst funded proposals
